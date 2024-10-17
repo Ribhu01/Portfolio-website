@@ -44,5 +44,5 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Ribhu01/portfolio-website.git
 
-Feel free to explore and **suggest any improvements or ideas** for enhancing my website. Your feedback is highly appreciated!
+* Feel free to explore and **suggest any improvements or ideas** for enhancing my website. Your feedback is highly appreciated!
 -Email: Ribhu8256@outlook.com
