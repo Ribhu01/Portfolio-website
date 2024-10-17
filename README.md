@@ -2,6 +2,8 @@
 
 This is the repository for my personal portfolio website, built to showcase my skills, projects, and resume. The website is created using **HTML**, **CSS**, **JavaScript**, and **SCSS** to provide an interactive and responsive user experience.
 
+You can check out my website using [link](https://ribhu01.github.io/Portfolio-website/)
+
 ## Overview
 The purpose of this website is to present my journey as a **Data Scientist** and **Machine Learning** enthusiast. It includes:
 - **About Me** section to give a brief overview of my academic background and interests.
